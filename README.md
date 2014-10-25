@@ -9,4 +9,4 @@ Each state is a polygon drawn by connecting a series of latitude / longitude coo
 
 In this case, that is drawing a polygon representing the minimum bounding rectangle for a US state. 
 
-[Minimum Bounding Recangle - Wikipedia](http://en.wikipedia.org/wiki/Minimum_bounding_rectangle)
+Read more about [minimum bounding recangle at Wikipedia](http://en.wikipedia.org/wiki/Minimum_bounding_rectangle).
